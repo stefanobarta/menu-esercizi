@@ -1,0 +1,32 @@
+#body{
+    background-color:rgb(0, 0, 0);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 200px !important;
+    color: aliceblue;
+
+}
+.miediev{
+    border: 10px;
+    border-color: green;
+}
+.scommesse {
+    display: flex;
+    justify-content: space-around;
+}
+td{
+    color: aliceblue;
+}
+
+th{
+    color: rgb(210, 217, 255);
+    text-shadow: -1px 0 green, 0 1px green, 1px 0 green, 0 -1px green;
+
+}
+
+#papa{
+    color: aliceblue;
+}
